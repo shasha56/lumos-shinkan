@@ -1,7 +1,7 @@
 // おみくじの結果（リスト）
-const fortunesList = ["大吉","吉"];
+const fortunesList = ["大吉","吉","中吉","末吉","凶"];
 //色（リスト）
-const colorList = ["red","blue"];
+const colorList = ["red","blue","green","orange","purple"];
 
 // ボタンと表示エリアを取得
 const btn = document.getElementById('button');
